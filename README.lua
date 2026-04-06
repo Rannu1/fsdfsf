@@ -12,7 +12,7 @@ local G2L = {};
 
 -- StarterGui.V6
 G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui").RobloxGui);
-G2L["1"]["Name"] = [[V6]];
+G2L["1"]["Name"] = [[serverside]];
 
 -- StarterGui.V6.Main
 G2L["2"] = Instance.new("Frame", G2L["1"]);
@@ -60,7 +60,7 @@ G2L["7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["7"]["TextSize"] = 27;
 G2L["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["7"]["Size"] = UDim2.new(0, 125, 0, 40);
-G2L["7"]["Text"] = [[backdoor.exe]];
+G2L["7"]["Text"] = [[Gub private ss]];
 G2L["7"]["Name"] = [[Logo Double]];
 G2L["7"]["Font"] = Enum.Font.Ubuntu;
 G2L["7"]["BackgroundTransparency"] = 1;
