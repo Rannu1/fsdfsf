@@ -12,7 +12,7 @@ local G2L = {};
 
 -- StarterGui.V6
 G2L["1"] = Instance.new("ScreenGui", game:GetService("CoreGui").RobloxGui);
-G2L["1"]["Name"] = [[priv ss]];
+G2L["1"]["Name"] = [[private ss]];
 
 -- StarterGui.V6.Main
 G2L["2"] = Instance.new("Frame", G2L["1"]);
@@ -60,7 +60,7 @@ G2L["7"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["7"]["TextSize"] = 27;
 G2L["7"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["7"]["Size"] = UDim2.new(0, 125, 0, 40);
-G2L["7"]["Text"] = [[private ss]];
+G2L["7"]["Text"] = [[Gub]];
 G2L["7"]["Name"] = [[Logo Double]];
 G2L["7"]["Font"] = Enum.Font.Ubuntu;
 G2L["7"]["BackgroundTransparency"] = 1;
@@ -72,7 +72,7 @@ G2L["8"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["8"]["TextSize"] = 23;
 G2L["8"]["TextColor3"] = Color3.fromRGB(65, 186, 122);
 G2L["8"]["Size"] = UDim2.new(0, 24, 0, 21);
-G2L["8"]["Text"] = [[priv ss]];
+G2L["8"]["Text"] = [[private ss]];
 G2L["8"]["Name"] = [[Version]];
 G2L["8"]["Font"] = Enum.Font.Ubuntu;
 G2L["8"]["BackgroundTransparency"] = 1;
